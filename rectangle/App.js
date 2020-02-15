@@ -9,7 +9,6 @@ const App = (props) => {
         height: rectangle.height,
         backgroundColor: rectangle.color
     }
-    console.log(props)
     return (
         <div style={myStyles}></div>
     )
